@@ -5,7 +5,7 @@ style1.css
 }
 
 body {
-    background-image: url('images/back.jpg'); 
+    background-image: url('back.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
@@ -125,7 +125,7 @@ button:hover {
     border-radius: 12px;
     width: 90%; 
     max-width: 600px;
-    background-image: url('images/photo.jpg');
+    background-image: url('photo.jpg');
     background-size: cover;
     background-position: center;
     font-family: 'Crimson Text', serif;
@@ -189,7 +189,7 @@ tr:nth-child(even) {
     width: 100%; 
     background-color: white;
     font-family: 'Playfair Display', serif;
-    background-image: url('images/photo1.jpg');
+    background-image: url('photo1.jpg');
     filter: blur(0.4px);
     height: 100%;
 }
